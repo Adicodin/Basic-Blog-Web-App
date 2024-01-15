@@ -1,9 +1,13 @@
 # Basic-Blog-Web-App
 This is a basic Blog Web App which is a capstone project assigned in my web development course.
 This contains the options to
+
     1. Create post
+    
     2. Delete post
+    
     3. Edit post content
+    
     4. View post
 
 Here is the demo
